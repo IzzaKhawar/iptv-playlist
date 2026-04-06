@@ -35,3 +35,123 @@ https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 #EXTINF:-1 tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-id="AndorraTV.ad" tvg-country="AD" group-title="Andorra",Andorra TV
 https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-name="TN Todo Noticias Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" tvg-id="TodoNoticias.ar" tvg-country="AR" group-title="Argentina",TN Todo Noticias Ⓨ
+https://www.youtube.com/c/todonoticias/live
+#EXTINF:-1 tvg-name="Encuentro Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/IyP2UIx.png" tvg-id="Encuentro.ar" tvg-country="AR" group-title="Argentina",Encuentro Ⓨ Ⓖ
+https://www.youtube.com/user/encuentro/live
+#EXTINF:-1 tvg-name="Pakapaka Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/Q4zaCuM.png" tvg-id="Pakapaka.ar" tvg-country="AR" group-title="Argentina",Pakapaka Ⓨ Ⓖ
+https://www.youtube.com/user/CanalPakapaka/live
+#EXTINF:-1 tvg-name="Aunar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" tvg-id="Aunar.ar" tvg-country="AR" group-title="Argentina",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine.AR" tvg-logo="https://i.imgur.com/RPLyrIC.png" tvg-id="CineAr.ar" tvg-country="AR" group-title="Argentina",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-name="Tec TV" tvg-logo="https://i.imgur.com/EGCq1wc.png" tvg-id="TECTV.ar" tvg-country="AR" group-title="Argentina",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-name="Televisión Pública Ⓨ" tvg-logo="https://i.imgur.com/4hYYpiu.png" tvg-id="TVPublica.ar" tvg-country="AR" group-title="Argentina",Televisión Pública Ⓨ
+https://www.youtube.com/user/TVPublicaArgentina/live
+#EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://i.imgur.com/iyYLNRt.png" tvg-id="DeporTV.ar" tvg-country="AR" group-title="Argentina",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 26 Ⓨ" tvg-logo="https://i.imgur.com/xDjOUuz.png" tvg-id="Canal26.ar" tvg-country="AR" group-title="Argentina",Canal 26 Ⓨ
+https://www.youtube.com/c/canal26/live
+#EXTINF:-1 tvg-name="Crónica TV Ⓨ" tvg-logo="https://i.imgur.com/k2Ku8Ib.png" tvg-id="CronicaTV.ar" tvg-country="AR" group-title="Argentina",Crónica TV Ⓨ
+https://www.youtube.com/c/cronicatv/live
+#EXTINF:-1 tvg-name="IP Noticias Ⓨ" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ar-ip-noticias-6980-300x225.jpg" tvg-id="IPNoticias.ar" tvg-country="AR" group-title="Argentina",IP Noticias Ⓨ
+https://www.youtube.com/watch?v=IxQ2-6Y4y9w
+#EXTINF:-1 tvg-name="El Destape Ⓨ" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAuXDwiY8UPwtAHrGXTXkAxBjdRqws2MJIN2A=s900-mo-c-c0xffffffff-rj-k-no" tvg-id="ElDestape.ar" tvg-country="AR" group-title="Argentina",El Destape Ⓨ
+https://www.youtube.com/watch?v=JuskTxbUqmY
+#EXTINF:-1 tvg-name="C5N Ⓨ" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-id="C5N.ar" tvg-country="AR" group-title="Argentina",C5N Ⓨ
+https://www.youtube.com/c/c5n/live
+#EXTINF:-1 tvg-name="LN+ Ⓨ" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar" tvg-country="AR" group-title="Argentina",LN+ Ⓨ
+https://www.youtube.com/c/LaNacionMas/live
+#EXTINF:-1 tvg-name="Canal E" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-id="CanalE.ar" tvg-country="AR" group-title="Argentina",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-name="Telemax" tvg-logo="https://i.imgur.com/gfX0hdB.png" tvg-id="Telemax.ar" tvg-country="AR" group-title="Argentina",Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/EWmshtx.png" tvg-id="NETTV.ar" tvg-country="AR" group-title="Argentina",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Universidad" tvg-logo="https://i.imgur.com/tvLHiAT.png" tvg-id="TVUniversidad.ar" tvg-country="AR" group-title="Argentina",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-name="Barricada TV" tvg-logo="https://www.barricadatv.org/?p=23082" tvg-id="BarricadaTV.ar" tvg-country="AR" group-title="Argentina",Barricada TV
+https://live-ak.vimeocdn.com/exp=1696402364~acl=%2F9f41e203-241b-4eb7-b0b5-b1839903408f%2F%2A~hmac=d4819f301510676a986bfe610b664765ee2b1a23e1e1ca3214398f949a0b2778/9f41e203-241b-4eb7-b0b5-b1839903408f/hls.m3u8?min_seconds=30
+#EXTINF:-1 tvg-name="Urbana Tevé" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s900-c-k-c0x00ffffff-no-rj" tvg-id="UrbanaTeve.ar" tvg-country="AR" group-title="Argentina",Urbana Tevé
+https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
+#EXTINF:-1 tvg-name="Comarca TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Comarca-TV-en-vivo-Online.png" tvg-id="ComarcaTV.ar" tvg-country="AR" group-title="Argentina",Comarca TV
+https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/Cq4FFLOPxq44Qy0kxjcr_wXuRRwjKU6gJ80Tc5eWRkaz5XdeNfeq7DzoNAstinu7BLtnw7jYDANX5yCDozdlS55_kYfuDyqQhwF0JpzU75lDUv5NOuUVWBwlP0m1Bh1JMn21v_OvA_teSCI7hcIFl2DoINrr8bHnpSS8EUvXNesfdX_LcfQH-clqftQ0sCreLIbTvxI5MyL6Wnm8jGh2yg48A2c_k9YHDH6TpM3tLo-pbRrrfByqMq-IoMQREf5DV_sTfHtAzinQQU3Np309s2ScJwcBlAjzz4VJ7svuJ1UbWBBylenSTnrXQW5Vws7OqG2kcoAHHpAQN6BQCpxaXO6dE7MLg7Nq6E7961fHEVSqFCRQg2Y5orbSsEwMo7_S4s5POZSQX1tn04QDuHfLixx-aBcbctSSFmI1CNZ3YDCEZVvWHOU6SyKQcsZeJCFLA1DsxqY3DeAn6n7xpPS4pdsizKqlqsT66liv_L-48h7jGujNZPDHge0fcgUs_7b7jlKJlKv-S_s1mGgLqPEUEQ8dhn5AugB0kfjAGgcTHIP_qLPRY0M7OikuBaMxh1pUpPkVG9AX4jCg1cwCgcfa64OP9ed4pwMjoiKm0dIfytTQ8hWjwXtkv16nJDfZ3kkqaMnM8ErZG6tRw-JVy3nRooKubY7Re0Fc1RHB85_eX2NYQD88N7r-UgaiO2ax0FQ-E_IdfuwSmp5oDy6Di6pT7r_zDRN3znbV64s4i-INUg-D2Leeq4xqYhe_Zhj-3AoxXDWCB0-DCc1kFEComkNpY01YA19zEm01TKLCbdaJwdC6bQpSEoJkOCoPAMnxm7oPNlqZRbhM4TVCJ34f4Y1guzaDomcEABl4Cii2UF-OhskRUZF-SUWjWdO6z62UqZagzG2QOTr6VBH-ItT_16fLsRUaDGTVKzgYHT8XcSqTkyABKgl1cy1lYXN0LTEwjQY.m3u8
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://i.imgur.com/ZK7AQFg.png" tvg-id="ElTrece.ar" tvg-country="AR" group-title="Argentina",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" tvg-country="AR" group-title="Argentina",El Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" tvg-country="AR" group-title="Argentina",Telefe Ⓨ
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" tvg-country="AR" group-title="Argentina",América Ⓨ
+https://www.youtube.com/c/americaenvivo/live
+#EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" tvg-country="AR" group-title="Argentina",A24 Ⓨ
+https://www.youtube.com/c/A24com/live
+#EXTINF:-1 tvg-name="Armenia 1" tvg-logo="https://i.imgur.com/HIwJ4lc.png" tvg-id="Armenia1.am" tvg-country="AM" group-title="Armenia",Armenia 1
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:-1 tvg-name="Kentron TV Ⓢ" tvg-logo="https://i.imgur.com/eCaxBFn.png" tvg-id="KentronTV.am" tvg-country="AM" group-title="Armenia",Kentron TV Ⓢ
+https://gineu9.bozztv.com/gin-36bay2/gin-kentron/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Armenia TV Ⓢ" tvg-logo="https://i.imgur.com/UnoI5uM.png" tvg-id="ArmeniaTV.am" tvg-country="AM" group-title="Armenia",Armenia TV Ⓢ
+https://cdn.hayastantv.com:8088/armenia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="5TV Ⓢ" tvg-logo="https://i.imgur.com/jOGZZDo.png" tvg-id="5TV.am" tvg-country="AM" group-title="Armenia",5TV Ⓢ
+https://cdn.hayastantv.com:8088/5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" tvg-id="ABCTV.au" tvg-country="AU" group-title="Australia",ABC
+https://c.mjh.nz/101002210221/
+#EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" tvg-id="TVSN.au" tvg-country="AU" group-title="Australia",TVSN
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
+#EXTINF:-1 tvg-name="ABC Me" tvg-logo="https://i.imgur.com/gBh54wY.png" tvg-id="ABCMe.au" tvg-country="AU" group-title="Australia",ABC Me
+https://c.mjh.nz/101002210224/
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png" tvg-id="ABCNews.au" tvg-country="AU" group-title="Australia",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-name="M4TV" tvg-logo="https://i.imgur.com/HZohlNk.png" tvg-id="M4TV.au" tvg-country="AU" group-title="Australia",M4TV
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://i.imgur.com/pma0OCf.png" tvg-id="Racingcom.au" tvg-country="AU" group-title="Australia",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 tvg-name="9Go! Ⓖ" tvg-logo="https://i.imgur.com/1CFGu5O.png" tvg-id="9Go.au" tvg-country="AU" group-title="Australia",9Go! Ⓖ
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+#EXTINF:-1 tvg-name="9Life Ⓖ" tvg-logo="https://i.imgur.com/ZCUiqlL.png" tvg-id="9Life.au" tvg-country="AU" group-title="Australia",9Life Ⓖ
+https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+#EXTINF:-1 tvg-name="9Rush Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png" tvg-id="9Rush.au" tvg-country="AU" group-title="Australia",9Rush Ⓖ
+https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
+#EXTINF:-1 tvg-name="ORF 1 Ⓖ" tvg-logo="https://i.imgur.com/ft2LuRl.jpg" tvg-id="ORF1.at" tvg-country="AT" group-title="Austria",ORF 1 Ⓖ
+https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
+#EXTINF:-1 tvg-name="ORF 2 Ⓖ" tvg-logo="https://i.imgur.com/yPVDaXv.png" tvg-id="ORF2.at" tvg-country="AT" group-title="Austria",ORF 2 Ⓖ
+https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
+#EXTINF:-1 tvg-name="ORF III Ⓖ" tvg-logo="https://i.imgur.com/6BuiUE7.png" tvg-id="ORFIII.at" tvg-country="AT" group-title="Austria",ORF III Ⓖ
+https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
+#EXTINF:-1 tvg-name="ORF Sport + Ⓖ" tvg-logo="https://i.imgur.com/MVNZ4gf.png" tvg-id="ORFSportPlus.at" tvg-country="AT" group-title="Austria",ORF Sport + Ⓖ
+https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
+#EXTINF:-1 tvg-name="Servus TV Ⓖ" tvg-logo="https://i.imgur.com/zDWhSxq.png" tvg-id="ServusTVOsterreich.at" tvg-country="AT" group-title="Austria",Servus TV Ⓖ
+https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
+#EXTINF:-1 tvg-name="oe24" tvg-logo="https://i.imgur.com/8UTkcPn.png" tvg-id="Oe24TV.at" tvg-country="AT" group-title="Austria",oe24
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
+#EXTINF:-1 tvg-name="W24" tvg-logo="https://i.imgur.com/PGb4wYw.png" tvg-id="W24.at" tvg-country="AT" group-title="Austria",W24
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="P3TV" tvg-logo="https://i.imgur.com/1sPhZ57.png" tvg-id="P3tv.at" tvg-country="AT" group-title="Austria",P3TV
+http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://i.imgur.com/oD7GQxT.png" tvg-id="RTV.at" tvg-country="AT" group-title="Austria",RTV
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-name="RTS Ⓖ" tvg-logo="https://i.imgur.com/Bhv7lvy.png" tvg-id="TVTV.at" tvg-country="AT" group-title="Austria",RTS Ⓖ
+https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
+#EXTINF:-1 tvg-name="Tirol TV Ⓖ" tvg-logo="https://i.imgur.com/1E7Nflo.jpg" tvg-id="TirolTV.at" tvg-country="AT" group-title="Austria",Tirol TV Ⓖ
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF:-1 tvg-name="R9" tvg-logo="https://i.imgur.com/2fxVYsL.jpg" tvg-id="R9.at" tvg-country="AT" group-title="Austria",R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ARB 24" tvg-logo="https://i.imgur.com/mtvIFyq.png" tvg-id="ARB24.az" tvg-country="AZ" group-title="Azerbaijan",ARB 24
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1 tvg-name="ARB Günəş Ⓢ" tvg-logo="https://i.imgur.com/dSg7KUK.png" tvg-id="ArbGunes.az" tvg-country="AZ" group-title="Azerbaijan",ARB Günəş Ⓢ
+https://www.tvkaista.net/stream-forwarder/get.php?x=ARMGunes
+#EXTINF:-1 tvg-name="ARB Ⓢ" tvg-logo="https://i.imgur.com/E97M2OL.png" tvg-id="ARB.az" tvg-country="AZ" group-title="Azerbaijan",ARB Ⓢ
+http://109.205.166.68/server124/arb/index.m3u8
+#EXTINF:-1 tvg-name="Azad TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ATV_%282012-h.h.%29.png/474px-ATV_%282012-h.h.%29.png" tvg-id="AzadTV.az" tvg-country="AZ" group-title="Azerbaijan",Azad TV Ⓢ
+https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz
+#EXTINF:-1 tvg-name="AzStarTV" tvg-logo="https://i.imgur.com/di3XX5L.png" tvg-id="AzStarTV.ca" tvg-country="AZ" group-title="Azerbaijan",AzStarTV
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="AZTV Ⓢ" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-id="AZTV.az" tvg-country="AZ" group-title="Azerbaijan",AZTV Ⓢ
+https://www.tvkaista.net/stream-forwarder/get.php?x=AZTV
+#EXTINF:-1 tvg-name="Baku TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/640px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az" tvg-country="AZ" group-title="Azerbaijan",Baku TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1 tvg-name="CBC" tvg-logo="https://i.imgur.com/wVT0dwO.png" tvg-id="CBC.az" tvg-country="AZ" group-title="Azerbaijan",CBC
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 tvg-name="CBC Sport Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" tvg-id="CBCSport.az" tvg-country="AZ" group-title="Azerbaijan",CBC Sport Ⓖ
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
